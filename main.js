@@ -11,7 +11,7 @@ function clearResult(){
 function calculate(){
   
   if(displayOutput.value == "*143"){
-    alert("I LOVE YANA!! --Mark C.")
+    alert("I LOVE YANA!! --Iguzum")
 
   }
   else {
